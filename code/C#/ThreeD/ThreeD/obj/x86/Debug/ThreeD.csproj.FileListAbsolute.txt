@@ -1,0 +1,5 @@
+E:\compile\ThreeD\ThreeD\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\ThreeD\ThreeD\bin\Debug\ThreeD.exe
+E:\compile\ThreeD\ThreeD\bin\Debug\ThreeD.pdb
+E:\compile\ThreeD\ThreeD\obj\x86\Debug\ThreeD.exe
+E:\compile\ThreeD\ThreeD\obj\x86\Debug\ThreeD.pdb

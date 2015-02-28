@@ -1,0 +1,5 @@
+E:\compile\Xmlparsing\Xmlparsing\bin\Debug\Xmlparsing.exe
+E:\compile\Xmlparsing\Xmlparsing\bin\Debug\Xmlparsing.pdb
+E:\compile\Xmlparsing\Xmlparsing\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\Xmlparsing\Xmlparsing\obj\x86\Debug\Xmlparsing.exe
+E:\compile\Xmlparsing\Xmlparsing\obj\x86\Debug\Xmlparsing.pdb

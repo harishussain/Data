@@ -1,0 +1,5 @@
+E:\compile\agecal\agecal\bin\Debug\agecal.exe
+E:\compile\agecal\agecal\bin\Debug\agecal.pdb
+E:\compile\agecal\agecal\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\agecal\agecal\obj\x86\Debug\agecal.exe
+E:\compile\agecal\agecal\obj\x86\Debug\agecal.pdb

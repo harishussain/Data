@@ -1,0 +1,5 @@
+E:\compile\conloading\conloading\bin\Debug\conloading.exe
+E:\compile\conloading\conloading\bin\Debug\conloading.pdb
+E:\compile\conloading\conloading\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\conloading\conloading\obj\x86\Debug\conloading.exe
+E:\compile\conloading\conloading\obj\x86\Debug\conloading.pdb

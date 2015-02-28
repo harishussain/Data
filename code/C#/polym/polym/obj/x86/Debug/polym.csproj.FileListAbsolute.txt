@@ -1,0 +1,5 @@
+E:\compile\polym\polym\bin\Debug\polym.exe
+E:\compile\polym\polym\bin\Debug\polym.pdb
+E:\compile\polym\polym\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\polym\polym\obj\x86\Debug\polym.exe
+E:\compile\polym\polym\obj\x86\Debug\polym.pdb

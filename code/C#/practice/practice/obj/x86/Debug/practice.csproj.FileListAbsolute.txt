@@ -1,0 +1,5 @@
+E:\compile\practice\practice\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\practice\practice\bin\Debug\practice.exe
+E:\compile\practice\practice\bin\Debug\practice.pdb
+E:\compile\practice\practice\obj\x86\Debug\practice.exe
+E:\compile\practice\practice\obj\x86\Debug\practice.pdb

@@ -1,0 +1,5 @@
+E:\compile\hashtable\hashtable\bin\Debug\hashtable.exe
+E:\compile\hashtable\hashtable\bin\Debug\hashtable.pdb
+E:\compile\hashtable\hashtable\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\hashtable\hashtable\obj\x86\Debug\hashtable.exe
+E:\compile\hashtable\hashtable\obj\x86\Debug\hashtable.pdb

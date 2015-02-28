@@ -1,0 +1,5 @@
+E:\compile\conditinal\conditinal\bin\Debug\conditinal.exe
+E:\compile\conditinal\conditinal\bin\Debug\conditinal.pdb
+E:\compile\conditinal\conditinal\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\conditinal\conditinal\obj\x86\Debug\conditinal.exe
+E:\compile\conditinal\conditinal\obj\x86\Debug\conditinal.pdb

@@ -1,0 +1,5 @@
+E:\compile\table\table\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\table\table\bin\Debug\table.exe
+E:\compile\table\table\bin\Debug\table.pdb
+E:\compile\table\table\obj\x86\Debug\table.exe
+E:\compile\table\table\obj\x86\Debug\table.pdb

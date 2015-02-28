@@ -1,0 +1,5 @@
+E:\compile\invokedele\invokedele\bin\Debug\invokedele.exe
+E:\compile\invokedele\invokedele\bin\Debug\invokedele.pdb
+E:\compile\invokedele\invokedele\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\invokedele\invokedele\obj\x86\Debug\invokedele.exe
+E:\compile\invokedele\invokedele\obj\x86\Debug\invokedele.pdb

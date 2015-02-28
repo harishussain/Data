@@ -1,0 +1,5 @@
+E:\compile\list\list\bin\Debug\list.exe
+E:\compile\list\list\bin\Debug\list.pdb
+E:\compile\list\list\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\list\list\obj\x86\Debug\list.exe
+E:\compile\list\list\obj\x86\Debug\list.pdb

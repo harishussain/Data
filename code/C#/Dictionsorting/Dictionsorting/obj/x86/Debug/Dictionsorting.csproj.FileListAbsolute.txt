@@ -1,0 +1,5 @@
+E:\compile\Dictionsorting\Dictionsorting\bin\Debug\Dictionsorting.exe
+E:\compile\Dictionsorting\Dictionsorting\bin\Debug\Dictionsorting.pdb
+E:\compile\Dictionsorting\Dictionsorting\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\Dictionsorting\Dictionsorting\obj\x86\Debug\Dictionsorting.exe
+E:\compile\Dictionsorting\Dictionsorting\obj\x86\Debug\Dictionsorting.pdb

@@ -1,0 +1,5 @@
+E:\compile\excprac\excprac\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\excprac\excprac\bin\Debug\excprac.exe
+E:\compile\excprac\excprac\bin\Debug\excprac.pdb
+E:\compile\excprac\excprac\obj\x86\Debug\excprac.exe
+E:\compile\excprac\excprac\obj\x86\Debug\excprac.pdb

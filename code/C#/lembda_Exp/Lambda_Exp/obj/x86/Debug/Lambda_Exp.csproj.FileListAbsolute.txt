@@ -1,0 +1,5 @@
+E:\compile\lembda_Exp\Lambda_Exp\bin\Debug\Lambda_Exp.exe
+E:\compile\lembda_Exp\Lambda_Exp\bin\Debug\Lambda_Exp.pdb
+E:\compile\lembda_Exp\Lambda_Exp\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\lembda_Exp\Lambda_Exp\obj\x86\Debug\Lambda_Exp.exe
+E:\compile\lembda_Exp\Lambda_Exp\obj\x86\Debug\Lambda_Exp.pdb

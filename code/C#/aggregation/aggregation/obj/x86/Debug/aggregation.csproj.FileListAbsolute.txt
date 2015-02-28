@@ -1,0 +1,5 @@
+E:\compile\aggregation\aggregation\bin\Debug\aggregation.exe
+E:\compile\aggregation\aggregation\bin\Debug\aggregation.pdb
+E:\compile\aggregation\aggregation\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\aggregation\aggregation\obj\x86\Debug\aggregation.exe
+E:\compile\aggregation\aggregation\obj\x86\Debug\aggregation.pdb

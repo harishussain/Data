@@ -1,0 +1,5 @@
+E:\compile\finally\finally\bin\Debug\@finally.exe
+E:\compile\finally\finally\bin\Debug\@finally.pdb
+E:\compile\finally\finally\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\finally\finally\obj\x86\Debug\@finally.exe
+E:\compile\finally\finally\obj\x86\Debug\@finally.pdb

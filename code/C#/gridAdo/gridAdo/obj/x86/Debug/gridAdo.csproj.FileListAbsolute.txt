@@ -1,0 +1,6 @@
+E:\compile\gridAdo\gridAdo\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\gridAdo\gridAdo\obj\x86\Debug\gridAdo.Form1.resources
+E:\compile\gridAdo\gridAdo\obj\x86\Debug\gridAdo.Properties.Resources.resources
+E:\compile\gridAdo\gridAdo\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\compile\gridAdo\gridAdo\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\compile\gridAdo\gridAdo\bin\Debug\gridAdo.exe.config

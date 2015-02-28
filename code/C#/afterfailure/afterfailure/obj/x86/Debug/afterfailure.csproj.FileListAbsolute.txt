@@ -1,0 +1,5 @@
+E:\compile\afterfailure\afterfailure\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\afterfailure\afterfailure\bin\Debug\afterfailure.exe
+E:\compile\afterfailure\afterfailure\bin\Debug\afterfailure.pdb
+E:\compile\afterfailure\afterfailure\obj\x86\Debug\afterfailure.exe
+E:\compile\afterfailure\afterfailure\obj\x86\Debug\afterfailure.pdb

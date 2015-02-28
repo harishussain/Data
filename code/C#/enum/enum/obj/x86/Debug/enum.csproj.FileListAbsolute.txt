@@ -1,0 +1,5 @@
+E:\compile\enum\enum\bin\Debug\@enum.exe
+E:\compile\enum\enum\bin\Debug\@enum.pdb
+E:\compile\enum\enum\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\enum\enum\obj\x86\Debug\@enum.exe
+E:\compile\enum\enum\obj\x86\Debug\@enum.pdb

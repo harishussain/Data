@@ -1,0 +1,5 @@
+E:\compile\Method_group_conversion\Method_group_conversion\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\Method_group_conversion\Method_group_conversion\bin\Debug\Method_group_conversion.exe
+E:\compile\Method_group_conversion\Method_group_conversion\bin\Debug\Method_group_conversion.pdb
+E:\compile\Method_group_conversion\Method_group_conversion\obj\x86\Debug\Method_group_conversion.exe
+E:\compile\Method_group_conversion\Method_group_conversion\obj\x86\Debug\Method_group_conversion.pdb

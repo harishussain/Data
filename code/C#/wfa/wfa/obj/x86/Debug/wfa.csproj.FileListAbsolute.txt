@@ -1,0 +1,9 @@
+E:\compile\wfa\wfa\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\wfa\wfa\obj\x86\Debug\wfa.Form1.resources
+E:\compile\wfa\wfa\obj\x86\Debug\wfa.Properties.Resources.resources
+E:\compile\wfa\wfa\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\compile\wfa\wfa\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\compile\wfa\wfa\bin\Debug\wfa.exe
+E:\compile\wfa\wfa\bin\Debug\wfa.pdb
+E:\compile\wfa\wfa\obj\x86\Debug\wfa.exe
+E:\compile\wfa\wfa\obj\x86\Debug\wfa.pdb

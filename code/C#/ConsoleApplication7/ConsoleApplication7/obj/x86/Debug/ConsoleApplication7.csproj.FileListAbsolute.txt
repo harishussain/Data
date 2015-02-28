@@ -1,0 +1,5 @@
+E:\compile\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+E:\compile\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+E:\compile\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.exe
+E:\compile\ConsoleApplication7\ConsoleApplication7\obj\x86\Debug\ConsoleApplication7.pdb

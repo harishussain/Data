@@ -1,0 +1,5 @@
+E:\compile\logicaloading\logicaloading\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\logicaloading\logicaloading\bin\Debug\logicaloading.exe
+E:\compile\logicaloading\logicaloading\bin\Debug\logicaloading.pdb
+E:\compile\logicaloading\logicaloading\obj\x86\Debug\logicaloading.exe
+E:\compile\logicaloading\logicaloading\obj\x86\Debug\logicaloading.pdb

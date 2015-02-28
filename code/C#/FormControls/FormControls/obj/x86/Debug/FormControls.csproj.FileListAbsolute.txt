@@ -1,0 +1,9 @@
+E:\compile\FormControls\FormControls\bin\Debug\FormControls.exe
+E:\compile\FormControls\FormControls\bin\Debug\FormControls.pdb
+E:\compile\FormControls\FormControls\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\FormControls\FormControls\obj\x86\Debug\FormControls.MultiCon.resources
+E:\compile\FormControls\FormControls\obj\x86\Debug\FormControls.Properties.Resources.resources
+E:\compile\FormControls\FormControls\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\compile\FormControls\FormControls\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\compile\FormControls\FormControls\obj\x86\Debug\FormControls.exe
+E:\compile\FormControls\FormControls\obj\x86\Debug\FormControls.pdb

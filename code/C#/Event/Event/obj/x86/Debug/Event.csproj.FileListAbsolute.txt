@@ -1,0 +1,5 @@
+E:\compile\Event\Event\bin\Debug\Event.exe
+E:\compile\Event\Event\bin\Debug\Event.pdb
+E:\compile\Event\Event\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\Event\Event\obj\x86\Debug\Event.exe
+E:\compile\Event\Event\obj\x86\Debug\Event.pdb

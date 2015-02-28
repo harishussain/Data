@@ -1,0 +1,9 @@
+E:\compile\calculator\calculator\bin\Debug\calculator.exe
+E:\compile\calculator\calculator\bin\Debug\calculator.pdb
+E:\compile\calculator\calculator\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\calculator\calculator\obj\x86\Debug\calculator.calc.resources
+E:\compile\calculator\calculator\obj\x86\Debug\calculator.Properties.Resources.resources
+E:\compile\calculator\calculator\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\compile\calculator\calculator\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\compile\calculator\calculator\obj\x86\Debug\calculator.exe
+E:\compile\calculator\calculator\obj\x86\Debug\calculator.pdb

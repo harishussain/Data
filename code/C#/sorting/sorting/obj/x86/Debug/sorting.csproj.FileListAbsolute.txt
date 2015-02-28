@@ -1,0 +1,5 @@
+E:\compile\sorting\sorting\bin\Debug\sorting.exe
+E:\compile\sorting\sorting\bin\Debug\sorting.pdb
+E:\compile\sorting\sorting\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\sorting\sorting\obj\x86\Debug\sorting.exe
+E:\compile\sorting\sorting\obj\x86\Debug\sorting.pdb

@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "method_conversion", "method_conversion\method_conversion.csproj", "{726F0871-BA93-4111-BF60-7DA28789EC51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{726F0871-BA93-4111-BF60-7DA28789EC51}.Debug|x86.ActiveCfg = Debug|x86
+		{726F0871-BA93-4111-BF60-7DA28789EC51}.Debug|x86.Build.0 = Debug|x86
+		{726F0871-BA93-4111-BF60-7DA28789EC51}.Release|x86.ActiveCfg = Release|x86
+		{726F0871-BA93-4111-BF60-7DA28789EC51}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

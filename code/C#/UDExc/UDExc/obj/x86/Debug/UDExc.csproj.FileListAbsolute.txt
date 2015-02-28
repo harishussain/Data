@@ -1,0 +1,5 @@
+E:\compile\UDExc\UDExc\bin\Debug\UDExc.exe
+E:\compile\UDExc\UDExc\bin\Debug\UDExc.pdb
+E:\compile\UDExc\UDExc\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\UDExc\UDExc\obj\x86\Debug\UDExc.exe
+E:\compile\UDExc\UDExc\obj\x86\Debug\UDExc.pdb

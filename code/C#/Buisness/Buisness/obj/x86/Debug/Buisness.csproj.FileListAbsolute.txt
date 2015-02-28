@@ -1,0 +1,5 @@
+E:\compile\Buisness\Buisness\bin\Debug\Buisness.exe
+E:\compile\Buisness\Buisness\bin\Debug\Buisness.pdb
+E:\compile\Buisness\Buisness\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\Buisness\Buisness\obj\x86\Debug\Buisness.exe
+E:\compile\Buisness\Buisness\obj\x86\Debug\Buisness.pdb

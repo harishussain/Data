@@ -1,0 +1,5 @@
+E:\compile\refVsout\refVsout\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\refVsout\refVsout\bin\Debug\refVsout.exe
+E:\compile\refVsout\refVsout\bin\Debug\refVsout.pdb
+E:\compile\refVsout\refVsout\obj\x86\Debug\refVsout.exe
+E:\compile\refVsout\refVsout\obj\x86\Debug\refVsout.pdb

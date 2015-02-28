@@ -1,0 +1,5 @@
+E:\compile\break\break\bin\Debug\@break.exe
+E:\compile\break\break\bin\Debug\@break.pdb
+E:\compile\break\break\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\break\break\obj\x86\Debug\@break.exe
+E:\compile\break\break\obj\x86\Debug\@break.pdb

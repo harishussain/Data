@@ -1,0 +1,7 @@
+E:\compile\database\database\bin\Debug\Northwind.mdb
+E:\compile\database\database\bin\Debug\database.exe.config
+E:\compile\database\database\bin\Debug\database.exe
+E:\compile\database\database\bin\Debug\database.pdb
+E:\compile\database\database\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\database\database\obj\x86\Debug\database.exe
+E:\compile\database\database\obj\x86\Debug\database.pdb

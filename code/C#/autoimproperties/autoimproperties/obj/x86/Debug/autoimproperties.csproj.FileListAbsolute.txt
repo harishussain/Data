@@ -1,0 +1,5 @@
+E:\compile\autoimproperties\autoimproperties\bin\Debug\autoimproperties.exe
+E:\compile\autoimproperties\autoimproperties\bin\Debug\autoimproperties.pdb
+E:\compile\autoimproperties\autoimproperties\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\autoimproperties\autoimproperties\obj\x86\Debug\autoimproperties.exe
+E:\compile\autoimproperties\autoimproperties\obj\x86\Debug\autoimproperties.pdb

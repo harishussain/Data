@@ -1,0 +1,5 @@
+E:\compile\haaa\haaa\bin\Debug\haaa.exe
+E:\compile\haaa\haaa\bin\Debug\haaa.pdb
+E:\compile\haaa\haaa\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\haaa\haaa\obj\x86\Debug\haaa.exe
+E:\compile\haaa\haaa\obj\x86\Debug\haaa.pdb

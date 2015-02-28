@@ -1,0 +1,5 @@
+E:\compile\baseinvocation\baseinvocation\bin\Debug\baseinvocation.exe
+E:\compile\baseinvocation\baseinvocation\bin\Debug\baseinvocation.pdb
+E:\compile\baseinvocation\baseinvocation\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\baseinvocation\baseinvocation\obj\x86\Debug\baseinvocation.exe
+E:\compile\baseinvocation\baseinvocation\obj\x86\Debug\baseinvocation.pdb

@@ -1,0 +1,5 @@
+E:\compile\multicast_Delegate\multicast_Delegate\bin\Debug\multicast_Delegate.exe
+E:\compile\multicast_Delegate\multicast_Delegate\bin\Debug\multicast_Delegate.pdb
+E:\compile\multicast_Delegate\multicast_Delegate\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\multicast_Delegate\multicast_Delegate\obj\x86\Debug\multicast_Delegate.exe
+E:\compile\multicast_Delegate\multicast_Delegate\obj\x86\Debug\multicast_Delegate.pdb

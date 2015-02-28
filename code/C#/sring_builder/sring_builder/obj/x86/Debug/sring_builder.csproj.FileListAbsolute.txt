@@ -1,0 +1,5 @@
+E:\compile\sring_builder\sring_builder\bin\Debug\sring_builder.exe
+E:\compile\sring_builder\sring_builder\bin\Debug\sring_builder.pdb
+E:\compile\sring_builder\sring_builder\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\sring_builder\sring_builder\obj\x86\Debug\sring_builder.exe
+E:\compile\sring_builder\sring_builder\obj\x86\Debug\sring_builder.pdb

@@ -1,0 +1,6 @@
+E:\compile\datalayer\datalayer\bin\Debug\datalayer.exe.config
+E:\compile\datalayer\datalayer\bin\Debug\datalayer.exe
+E:\compile\datalayer\datalayer\bin\Debug\datalayer.pdb
+E:\compile\datalayer\datalayer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\datalayer\datalayer\obj\x86\Debug\datalayer.exe
+E:\compile\datalayer\datalayer\obj\x86\Debug\datalayer.pdb

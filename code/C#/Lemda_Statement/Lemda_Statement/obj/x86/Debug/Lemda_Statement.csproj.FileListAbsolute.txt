@@ -1,0 +1,5 @@
+E:\compile\Lemda_Statement\Lemda_Statement\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\Lemda_Statement\Lemda_Statement\bin\Debug\Lemda_Statement.exe
+E:\compile\Lemda_Statement\Lemda_Statement\bin\Debug\Lemda_Statement.pdb
+E:\compile\Lemda_Statement\Lemda_Statement\obj\x86\Debug\Lemda_Statement.exe
+E:\compile\Lemda_Statement\Lemda_Statement\obj\x86\Debug\Lemda_Statement.pdb

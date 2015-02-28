@@ -1,0 +1,10 @@
+E:\compile\ADOwork\ADOwork\bin\Debug\ADOwork.exe
+E:\compile\ADOwork\ADOwork\bin\Debug\ADOwork.pdb
+E:\compile\ADOwork\ADOwork\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\ADOwork\ADOwork\obj\x86\Debug\ADOwork.Form1.resources
+E:\compile\ADOwork\ADOwork\obj\x86\Debug\ADOwork.Properties.Resources.resources
+E:\compile\ADOwork\ADOwork\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\compile\ADOwork\ADOwork\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\compile\ADOwork\ADOwork\obj\x86\Debug\ADOwork.exe
+E:\compile\ADOwork\ADOwork\obj\x86\Debug\ADOwork.pdb
+E:\compile\ADOwork\ADOwork\bin\Debug\ADOwork.exe.config

@@ -1,0 +1,5 @@
+E:\compile\dictionaryList\dictionaryList\bin\Debug\dictionaryList.exe
+E:\compile\dictionaryList\dictionaryList\bin\Debug\dictionaryList.pdb
+E:\compile\dictionaryList\dictionaryList\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\dictionaryList\dictionaryList\obj\x86\Debug\dictionaryList.exe
+E:\compile\dictionaryList\dictionaryList\obj\x86\Debug\dictionaryList.pdb

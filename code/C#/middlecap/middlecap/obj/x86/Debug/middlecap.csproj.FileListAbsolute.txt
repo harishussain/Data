@@ -1,0 +1,5 @@
+E:\compile\middlecap\middlecap\bin\Debug\middlecap.exe
+E:\compile\middlecap\middlecap\bin\Debug\middlecap.pdb
+E:\compile\middlecap\middlecap\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\middlecap\middlecap\obj\x86\Debug\middlecap.exe
+E:\compile\middlecap\middlecap\obj\x86\Debug\middlecap.pdb

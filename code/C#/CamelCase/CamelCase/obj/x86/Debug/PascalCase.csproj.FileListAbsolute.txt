@@ -1,0 +1,5 @@
+E:\compile\CamelCase\CamelCase\obj\x86\Debug\CamelCase.exe
+E:\compile\CamelCase\CamelCase\obj\x86\Debug\CamelCase.pdb
+E:\compile\CamelCase\CamelCase\bin\Debug\CamelCase.exe
+E:\compile\CamelCase\CamelCase\bin\Debug\CamelCase.pdb
+E:\compile\CamelCase\CamelCase\obj\x86\Debug\ResolveAssemblyReference.cache

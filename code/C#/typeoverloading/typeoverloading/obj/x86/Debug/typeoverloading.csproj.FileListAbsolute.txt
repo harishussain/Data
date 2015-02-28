@@ -1,0 +1,5 @@
+E:\compile\typeoverloading\typeoverloading\bin\Debug\typeoverloading.exe
+E:\compile\typeoverloading\typeoverloading\bin\Debug\typeoverloading.pdb
+E:\compile\typeoverloading\typeoverloading\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\typeoverloading\typeoverloading\obj\x86\Debug\typeoverloading.exe
+E:\compile\typeoverloading\typeoverloading\obj\x86\Debug\typeoverloading.pdb

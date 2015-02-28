@@ -1,0 +1,5 @@
+E:\compile\qno1\qno1\bin\Debug\qno1.exe
+E:\compile\qno1\qno1\bin\Debug\qno1.pdb
+E:\compile\qno1\qno1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\qno1\qno1\obj\x86\Debug\qno1.exe
+E:\compile\qno1\qno1\obj\x86\Debug\qno1.pdb

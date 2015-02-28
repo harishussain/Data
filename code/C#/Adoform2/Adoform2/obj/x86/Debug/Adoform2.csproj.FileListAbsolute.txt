@@ -1,0 +1,10 @@
+E:\compile\Adoform2\Adoform2\bin\Debug\Adoform2.exe.config
+E:\compile\Adoform2\Adoform2\bin\Debug\Adoform2.exe
+E:\compile\Adoform2\Adoform2\bin\Debug\Adoform2.pdb
+E:\compile\Adoform2\Adoform2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\Adoform2\Adoform2\obj\x86\Debug\AdoForm1.Form1.resources
+E:\compile\Adoform2\Adoform2\obj\x86\Debug\Adoform2.Properties.Resources.resources
+E:\compile\Adoform2\Adoform2\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\compile\Adoform2\Adoform2\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\compile\Adoform2\Adoform2\obj\x86\Debug\Adoform2.exe
+E:\compile\Adoform2\Adoform2\obj\x86\Debug\Adoform2.pdb

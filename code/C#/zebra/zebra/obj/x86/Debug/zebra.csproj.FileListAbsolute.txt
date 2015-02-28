@@ -1,0 +1,5 @@
+E:\compile\zebra\zebra\bin\Debug\zebra.exe
+E:\compile\zebra\zebra\bin\Debug\zebra.pdb
+E:\compile\zebra\zebra\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\zebra\zebra\obj\x86\Debug\zebra.exe
+E:\compile\zebra\zebra\obj\x86\Debug\zebra.pdb

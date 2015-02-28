@@ -1,0 +1,5 @@
+E:\compile\Dupless\Dupless\bin\Debug\Dupless.exe
+E:\compile\Dupless\Dupless\bin\Debug\Dupless.pdb
+E:\compile\Dupless\Dupless\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\Dupless\Dupless\obj\x86\Debug\Dupless.exe
+E:\compile\Dupless\Dupless\obj\x86\Debug\Dupless.pdb

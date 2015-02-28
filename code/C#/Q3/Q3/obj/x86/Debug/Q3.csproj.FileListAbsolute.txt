@@ -1,0 +1,5 @@
+E:\compile\Q3\Q3\bin\Debug\Q3.exe
+E:\compile\Q3\Q3\bin\Debug\Q3.pdb
+E:\compile\Q3\Q3\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\Q3\Q3\obj\x86\Debug\Q3.exe
+E:\compile\Q3\Q3\obj\x86\Debug\Q3.pdb

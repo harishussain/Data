@@ -1,0 +1,5 @@
+E:\compile\AnonymusMethod\AnonymusMethod\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\AnonymusMethod\AnonymusMethod\bin\Debug\AnonymusMethod.exe
+E:\compile\AnonymusMethod\AnonymusMethod\bin\Debug\AnonymusMethod.pdb
+E:\compile\AnonymusMethod\AnonymusMethod\obj\x86\Debug\AnonymusMethod.exe
+E:\compile\AnonymusMethod\AnonymusMethod\obj\x86\Debug\AnonymusMethod.pdb

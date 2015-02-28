@@ -1,0 +1,5 @@
+E:\compile\stringVsString\stringVsString\bin\Debug\stringVsString.exe
+E:\compile\stringVsString\stringVsString\bin\Debug\stringVsString.pdb
+E:\compile\stringVsString\stringVsString\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\stringVsString\stringVsString\obj\x86\Debug\stringVsString.exe
+E:\compile\stringVsString\stringVsString\obj\x86\Debug\stringVsString.pdb

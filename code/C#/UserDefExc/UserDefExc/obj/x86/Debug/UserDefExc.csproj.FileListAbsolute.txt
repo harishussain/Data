@@ -1,0 +1,5 @@
+E:\compile\UserDefExc\UserDefExc\bin\Debug\UserDefExc.exe
+E:\compile\UserDefExc\UserDefExc\bin\Debug\UserDefExc.pdb
+E:\compile\UserDefExc\UserDefExc\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\UserDefExc\UserDefExc\obj\x86\Debug\UserDefExc.exe
+E:\compile\UserDefExc\UserDefExc\obj\x86\Debug\UserDefExc.pdb

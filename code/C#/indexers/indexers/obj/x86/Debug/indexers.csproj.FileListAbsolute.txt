@@ -1,0 +1,5 @@
+E:\compile\indexers\indexers\bin\Debug\indexers.exe
+E:\compile\indexers\indexers\bin\Debug\indexers.pdb
+E:\compile\indexers\indexers\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\indexers\indexers\obj\x86\Debug\indexers.exe
+E:\compile\indexers\indexers\obj\x86\Debug\indexers.pdb

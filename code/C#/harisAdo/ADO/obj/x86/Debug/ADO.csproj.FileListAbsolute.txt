@@ -1,0 +1,6 @@
+E:\compile\harisAdo\ADO\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\harisAdo\ADO\obj\x86\Debug\ADO.Form1.resources
+E:\compile\harisAdo\ADO\obj\x86\Debug\ADO.Properties.Resources.resources
+E:\compile\harisAdo\ADO\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\compile\harisAdo\ADO\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\compile\harisAdo\ADO\bin\Debug\ADO.exe.config

@@ -1,0 +1,5 @@
+E:\compile\first_Delegate\first_Delegate\bin\Debug\first_Delegate.exe
+E:\compile\first_Delegate\first_Delegate\bin\Debug\first_Delegate.pdb
+E:\compile\first_Delegate\first_Delegate\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\first_Delegate\first_Delegate\obj\x86\Debug\first_Delegate.exe
+E:\compile\first_Delegate\first_Delegate\obj\x86\Debug\first_Delegate.pdb

@@ -1,0 +1,5 @@
+E:\compile\testprograms\testprograms\bin\Debug\testprograms.exe
+E:\compile\testprograms\testprograms\bin\Debug\testprograms.pdb
+E:\compile\testprograms\testprograms\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\testprograms\testprograms\obj\x86\Debug\testprograms.exe
+E:\compile\testprograms\testprograms\obj\x86\Debug\testprograms.pdb

@@ -1,0 +1,5 @@
+E:\compile\Jagged\Jagged\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\Jagged\Jagged\bin\Debug\Jagged.exe
+E:\compile\Jagged\Jagged\bin\Debug\Jagged.pdb
+E:\compile\Jagged\Jagged\obj\x86\Debug\Jagged.exe
+E:\compile\Jagged\Jagged\obj\x86\Debug\Jagged.pdb

@@ -1,0 +1,5 @@
+E:\compile\Ass1\Ass1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\Ass1\Ass1\bin\Debug\Ass1.exe
+E:\compile\Ass1\Ass1\bin\Debug\Ass1.pdb
+E:\compile\Ass1\Ass1\obj\x86\Debug\Ass1.exe
+E:\compile\Ass1\Ass1\obj\x86\Debug\Ass1.pdb

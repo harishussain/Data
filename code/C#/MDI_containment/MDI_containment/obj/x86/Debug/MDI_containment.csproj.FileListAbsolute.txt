@@ -1,0 +1,10 @@
+E:\compile\MDI_containment\MDI_containment\bin\Debug\MDI_containment.exe
+E:\compile\MDI_containment\MDI_containment\bin\Debug\MDI_containment.pdb
+E:\compile\MDI_containment\MDI_containment\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\MDI_containment\MDI_containment\obj\x86\Debug\MDI_containment.Pform.resources
+E:\compile\MDI_containment\MDI_containment\obj\x86\Debug\MDI_containment.Properties.Resources.resources
+E:\compile\MDI_containment\MDI_containment\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\compile\MDI_containment\MDI_containment\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\compile\MDI_containment\MDI_containment\obj\x86\Debug\MDI_containment.exe
+E:\compile\MDI_containment\MDI_containment\obj\x86\Debug\MDI_containment.pdb
+E:\compile\MDI_containment\MDI_containment\obj\x86\Debug\MDI_containment.Formchild1.resources

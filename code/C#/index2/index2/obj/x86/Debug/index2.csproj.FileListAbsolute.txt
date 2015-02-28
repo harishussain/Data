@@ -1,0 +1,5 @@
+E:\compile\index2\index2\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\index2\index2\bin\Debug\index2.exe
+E:\compile\index2\index2\bin\Debug\index2.pdb
+E:\compile\index2\index2\obj\x86\Debug\index2.exe
+E:\compile\index2\index2\obj\x86\Debug\index2.pdb

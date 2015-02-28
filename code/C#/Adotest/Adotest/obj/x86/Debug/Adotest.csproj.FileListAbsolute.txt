@@ -1,0 +1,10 @@
+E:\compile\Adotest\Adotest\bin\Debug\Adotest.exe.config
+E:\compile\Adotest\Adotest\bin\Debug\Adotest.exe
+E:\compile\Adotest\Adotest\bin\Debug\Adotest.pdb
+E:\compile\Adotest\Adotest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\Adotest\Adotest\obj\x86\Debug\AdoForm1.Form1.resources
+E:\compile\Adotest\Adotest\obj\x86\Debug\Adotest.Properties.Resources.resources
+E:\compile\Adotest\Adotest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\compile\Adotest\Adotest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\compile\Adotest\Adotest\obj\x86\Debug\Adotest.exe
+E:\compile\Adotest\Adotest\obj\x86\Debug\Adotest.pdb

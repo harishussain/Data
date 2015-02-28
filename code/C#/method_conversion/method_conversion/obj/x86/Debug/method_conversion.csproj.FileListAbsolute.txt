@@ -1,0 +1,5 @@
+E:\compile\method_conversion\method_conversion\bin\Debug\method_conversion.exe
+E:\compile\method_conversion\method_conversion\bin\Debug\method_conversion.pdb
+E:\compile\method_conversion\method_conversion\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\method_conversion\method_conversion\obj\x86\Debug\method_conversion.exe
+E:\compile\method_conversion\method_conversion\obj\x86\Debug\method_conversion.pdb

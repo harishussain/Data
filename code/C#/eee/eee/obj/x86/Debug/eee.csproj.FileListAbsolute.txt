@@ -1,0 +1,5 @@
+E:\compile\eee\eee\bin\Debug\eee.exe
+E:\compile\eee\eee\bin\Debug\eee.pdb
+E:\compile\eee\eee\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\compile\eee\eee\obj\x86\Debug\eee.exe
+E:\compile\eee\eee\obj\x86\Debug\eee.pdb
