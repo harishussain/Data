@@ -1,0 +1,48 @@
+<html>
+<head>
+</head>
+<body bgcolor="<?php echo $Bcolor; ?>" text = "echo $Tcolor;">
+<?php
+if($_POST['posted']) {
+    $newbcolor = $POST['NewBcolor'];
+    $newtcolor = $POST['NewTcolor'];
+    setcookie("Bcolor", "$newbcolor", time() + 3600);
+    setcookie("Tcolor", "$newtcolor", time() + 3600);
+    $Bcolor = $_COOKIE['Bcolor'];
+    $Tcolor = $_COOKIE['Tcolor'];
+    if ($Bcolor = "" || $Tcolor = "")
+    {
+        $Bcolor = "white";
+        $Tcolor = "black";
+    }
+    echo $newbcolor;
+    echo "<br>";
+    echo $newtcolor;
+    echo "<br/>";
+    echo $Bcolor;
+    echo "<br/>";
+    echo $Tcolor;
+}
+?>
+<form method = "POST" action="">
+    <select name="NewBcolor">
+        <option> red</option>
+        <option>blue</option>
+        <option>green</option>
+        <option>white</option>
+        <option>black</option>
+    </select>
+    <select name="NewTcolor">
+        <option>brown</option>
+        <option>magenta</option>
+        <option>yellow</option>
+        <otpion>indigo</otpion>
+        <option>black</option>
+        <option>white</option>S
+    </select>
+<input type="hidden" name="posted" value="true"/>
+    <input type = "submit" name="submit" value="submit!"/>
+</form>
+
+<body/>
+<html/>

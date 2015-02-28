@@ -1,0 +1,39 @@
+<html>
+<head>
+<title>
+JOB FORM
+</title>
+</head>
+<body>
+<form name="data" action = "signup.php" method="post">
+<table border="1">
+<tr><td>Name:</td> <td><input type= "text" name="name"/></td> </tr>
+
+<tr><td>E-mail:</td> <td><input type= "text" name="email"/></td> </tr>
+
+<tr><td>Address:</td> <td><input type= "text" name="address"/></td> </tr>
+<tr><td>Age:</td> <td><input type= "text" name="age"/></td> </tr>
+<tr><td> Gender</td><td>male:<input type="radio" name="gender" value="male"/> &nbsp female:<input type="radio" name ="gender" value="female"/></td> </tr>
+<tr><td>Skills:</td><td>
+                    HTML:<input type ="checkbox" name="skill[]" value ="html"/>  
+                    SQL:<input type ="checkbox" name="skill[]" value ="sql"/>
+                     PHP:<input type="checkbox" name="skill[]" value ="php"/>
+                  AJAX:<input type ="checkbox" name="skill[]" value="ajax"/></td>
+</tr> 
+<tr><td>country:</td><td>
+<select name="city">
+<option>Karachi</option>
+<option>Lahore</option>
+<option>Quetta</option>
+<option>Islamabad</option>
+<option>Peshawar</option>
+</select>
+</td></tr>
+<tr rowspan="5"><td>
+<input type="submit" value="Submit" name="submit"/></td>
+<td><input type = "reset" value="Reset" naem="reset"/>
+</td></tr>
+</table>
+</form>
+</body>
+</html>
